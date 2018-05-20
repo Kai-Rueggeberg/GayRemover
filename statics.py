@@ -1,0 +1,3 @@
+PREFIX = "#"
+SLEEP = 600
+COOLDOWN = 10
