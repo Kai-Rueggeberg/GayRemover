@@ -1,6 +1,4 @@
 asyncio
 discord
-SECRETS
 asyncio
-statics
 time
