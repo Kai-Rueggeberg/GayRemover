@@ -5,6 +5,9 @@ import SECRETS
 import asyncio
 import statics
 import time
+
+api = str(os.environ.get('RIOT_KEY'))
+
 client = discord.Client()
 global timestart
 timestart = time.time()
